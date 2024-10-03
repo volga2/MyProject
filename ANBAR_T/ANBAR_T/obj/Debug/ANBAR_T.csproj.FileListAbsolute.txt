@@ -1,0 +1,15 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.Form1.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.Form2.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\bin\Debug\ANBAR_T.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\bin\Debug\Database41.accdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\bin\Debug\ANBAR_T.exe.manifest
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\bin\Debug\ANBAR_T.application
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\bin\Debug\ANBAR_T.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\bin\Debug\ANBAR_T.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.exe.manifest
+C:\Users\John\Documents\Visual Studio 2012\Projects\ANBAR_T\ANBAR_T\obj\Debug\ANBAR_T.application
